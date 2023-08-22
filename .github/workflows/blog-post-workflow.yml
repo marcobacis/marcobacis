@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://marcobacis.com/blog/index.xml"
+          template: "    - [$title]($url)$newline"

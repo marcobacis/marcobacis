@@ -15,7 +15,7 @@
 - 👨‍💻 You can find more about me at [marcobacis.com](marcobacis.com)
 
 - 📕 I try to keep a [blog](marcobacis.com/blog), here are some of the latest posts:
-    <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
 - [Working Software Conference 2023](http://marcobacis.com/blog/working-software-2023/)
 - [Book Summary: A Philosophy of Software Design](http://marcobacis.com/blog/philosophy-of-software-design/)
 - [The Power of Code Katas: Katurday @ XPUGBg](http://marcobacis.com/blog/katurday/)
