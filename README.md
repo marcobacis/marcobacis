@@ -16,8 +16,8 @@
 
 - 📕 I try to keep a [blog](marcobacis.com/blog), here are some of the latest posts:
 <!-- BLOG-POST-LIST:START -->
- \t - [Working Software Conference 2023](http://marcobacis.com/blog/working-software-2023/)
- \t - [Book Summary: A Philosophy of Software Design](http://marcobacis.com/blog/philosophy-of-software-design/)
- \t - [The Power of Code Katas: Katurday @ XPUGBg](http://marcobacis.com/blog/katurday/)
- \t - [XPUGBg March Meetup: “The Actor Model &lpar;and why an XP programmer should know it&rpar;“](http://marcobacis.com/blog/2023-actor-model-meetup/)
- \t - [Book Summary: Atomic Habits](http://marcobacis.com/blog/atomic-habits-book/)<!-- BLOG-POST-LIST:END -->
+    - [Working Software Conference 2023](http://marcobacis.com/blog/working-software-2023/)
+    - [Book Summary: A Philosophy of Software Design](http://marcobacis.com/blog/philosophy-of-software-design/)
+    - [The Power of Code Katas: Katurday @ XPUGBg](http://marcobacis.com/blog/katurday/)
+    - [XPUGBg March Meetup: “The Actor Model &lpar;and why an XP programmer should know it&rpar;“](http://marcobacis.com/blog/2023-actor-model-meetup/)
+    - [Book Summary: Atomic Habits](http://marcobacis.com/blog/atomic-habits-book/)<!-- BLOG-POST-LIST:END -->
