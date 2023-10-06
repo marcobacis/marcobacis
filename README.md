@@ -16,9 +16,9 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Documentation-as-Code with Doxygen &lpar;Awesome&rpar;](http://marcobacis.com/blog/docs-as-code-doxygen-awesome/)
-- [Working Software Conference 2023](http://marcobacis.com/blog/working-software-2023/)
-- [Book Summary: A Philosophy of Software Design](http://marcobacis.com/blog/philosophy-of-software-design/)
-- [The Power of Code Katas: Katurday @ XPUGBg](http://marcobacis.com/blog/katurday/)
-- [XPUGBg March Meetup: “The Actor Model &lpar;and why an XP programmer should know it&rpar;“](http://marcobacis.com/blog/2023-actor-model-meetup/)
+- [Book Summary: Indistractable](https://marcobacis.com/blog/indistractable-book-summary/)
+- [Documentation-as-Code with Doxygen &lpar;Awesome&rpar;](https://marcobacis.com/blog/docs-as-code-doxygen-awesome/)
+- [Working Software Conference 2023](https://marcobacis.com/blog/working-software-2023/)
+- [Book Summary: A Philosophy of Software Design](https://marcobacis.com/blog/philosophy-of-software-design/)
+- [The Power of Code Katas: Katurday @ XPUGBg](https://marcobacis.com/blog/katurday/)
 <!-- BLOG-POST-LIST:END -->
