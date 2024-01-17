@@ -16,9 +16,9 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Experience at the Italian Agile Days 2023](https://marcobacis.com/blog/2023-italian-agile-days/)
 - [2023: A Review](https://marcobacis.com/blog/2023-review/)
 - [My Experience at SoCraTes 2023](https://marcobacis.com/blog/socrates-2023/)
 - [Book Summary: Indistractable](https://marcobacis.com/blog/indistractable-book-summary/)
 - [Documentation-as-Code with Doxygen &lpar;Awesome&rpar;](https://marcobacis.com/blog/docs-as-code-doxygen-awesome/)
-- [Working Software Conference 2023](https://marcobacis.com/blog/working-software-2023/)
 <!-- BLOG-POST-LIST:END -->
