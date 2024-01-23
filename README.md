@@ -16,9 +16,9 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Milan XPUG January Meetup: My Advice on Microservices Architecture, by Gabriele Lana](https://marcobacis.com/blog/xpug-milan-meetup-microservices/)
 - [My Experience at the Italian Agile Days 2023](https://marcobacis.com/blog/2023-italian-agile-days/)
 - [2023: A Review](https://marcobacis.com/blog/2023-review/)
 - [My Experience at SoCraTes 2023](https://marcobacis.com/blog/socrates-2023/)
 - [Book Summary: Indistractable](https://marcobacis.com/blog/indistractable-book-summary/)
-- [Documentation-as-Code with Doxygen &lpar;Awesome&rpar;](https://marcobacis.com/blog/docs-as-code-doxygen-awesome/)
 <!-- BLOG-POST-LIST:END -->
