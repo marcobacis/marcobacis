@@ -4,11 +4,11 @@
 
 &nbsp;
 
-- 👨🏻‍💻 I work at [e-Novia](https://e-novia.it/) as Software Engineer, supporting startups growing through software
+- 👨🏻‍💻 I work at [Zupit](https://zupit.it/) as Full Stack Developer
 
 - 💪 Experienced developer working with C++, Python and C#/.NET for IoT platforms (both on IoT devices and Backend platforms)
 
-- 🌱 I’m currently learning **Rust** 🦀 (see [here](https://github.com/marcobacis/adventofcode))
+- 🌱 I’m currently learning **Rust** 🦀 (for fun, see [here](https://github.com/marcobacis/adventofcode)) and **Angular** (for work)
 
 - 👀 I’m interested in cloud/backend systems and system programming/infrastructure
 
