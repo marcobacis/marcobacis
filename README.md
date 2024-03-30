@@ -16,9 +16,9 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Polenta &amp; Deploy 2024](https://marcobacis.com/blog/2024-polenta-and-deploy/)
 - [Show your Work!](https://marcobacis.com/blog/show-your-work-book/)
 - [My First Open Source contribution ever @ Open Source Saturday Milan](https://marcobacis.com/blog/2024-feb-open-source-saturday/)
 - [Milan XPUG January Meetup: My Advice on Microservices Architecture, by Gabriele Lana](https://marcobacis.com/blog/xpug-milan-meetup-microservices/)
 - [My Experience at the Italian Agile Days 2023](https://marcobacis.com/blog/2023-italian-agile-days/)
-- [2023: A Review](https://marcobacis.com/blog/2023-review/)
 <!-- BLOG-POST-LIST:END -->
