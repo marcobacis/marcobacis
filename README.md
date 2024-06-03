@@ -16,9 +16,9 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s build a Load Balancer in Rust - Part 3](https://marcobacis.com/blog/load-balancer-rust-3/)
 - [Let&#39;s build a Load Balancer in Rust - Part 2](https://marcobacis.com/blog/load-balancer-rust-2/)
 - [Let&#39;s build a Load Balancer in Rust - Part 1](https://marcobacis.com/blog/load-balancer-rust-1/)
 - [Polenta &amp; Deploy 2024](https://marcobacis.com/blog/2024-polenta-and-deploy/)
 - [Show your Work!](https://marcobacis.com/blog/show-your-work-book/)
-- [My First Open Source contribution ever @ Open Source Saturday Milan](https://marcobacis.com/blog/2024-feb-open-source-saturday/)
 <!-- BLOG-POST-LIST:END -->
