@@ -25,4 +25,6 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [A World Without Email: Reimagining Work in an Age of Communication Overload](https://www.goodreads.com/review/show/7434820539?utm_medium=api&utm_source=rss) by Cal Newport (⭐️3.82)
+- [Zero To Production In Rust: An introduction to backend development](https://www.goodreads.com/review/show/7269178143?utm_medium=api&utm_source=rss) by Luca Palmieri (⭐️4.71)
 <!-- GOODREADS-LIST:END -->
