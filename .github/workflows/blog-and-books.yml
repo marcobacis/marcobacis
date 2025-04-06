@@ -1,0 +1,25 @@
+name: Update blog posts and books
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-goodreads-books:
+    name: Update this repo's README with my blog posts and what I'm currently reading
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull in personal blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://marcobacis.com/blog/index.xml"
+      - name: Update books list
+        uses: zwacky/goodreads-profile-workflow@main
+        with:
+          goodreads_user_id: "22830084"
+          shelf: "currently-reading"

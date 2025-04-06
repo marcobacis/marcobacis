@@ -4,11 +4,11 @@
 
 &nbsp;
 
-- 👨🏻‍💻 I work at [Zupit](https://zupit.it/) as Full Stack Developer
+- 👨🏻‍💻 I work at [Zupit](https://zupit.it/) as Full Stack Developer (.NET + Angular stack)
 
-- 💪 Experienced developer working with C++, Python and C#/.NET for IoT platforms (both on IoT devices and Backend platforms)
+- 💪 Experienced developer working with C#/.NET, Python and C++ for IoT platforms (both on IoT devices and Backend platforms)
 
-- 🌱 I’m currently learning **Rust** 🦀 (for fun, see [here](https://github.com/marcobacis/adventofcode)) and **Angular** (for work)
+- 🌱 I’m currently learning **Rust** 🦀 (for fun, see [here](https://github.com/marcobacis/adventofcode))
 
 - 👀 I’m interested in cloud/backend systems and system programming/infrastructure
 
@@ -22,3 +22,7 @@
 - [Polenta &amp; Deploy 2024](https://marcobacis.com/blog/2024-polenta-and-deploy/)
 - [Show your Work!](https://marcobacis.com/blog/show-your-work-book/)
 <!-- BLOG-POST-LIST:END -->
+
+### 📚 Books I'm currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
