@@ -25,5 +25,5 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Wool](https://www.goodreads.com/review/show/7488557628?utm_medium=api&utm_source=rss) by Hugh Howey (⭐️4.04)
+- [Test-Driven Development: By Example](https://www.goodreads.com/review/show/7527722592?utm_medium=api&utm_source=rss) by Kent Beck (⭐️4.1)
 <!-- GOODREADS-LIST:END -->
