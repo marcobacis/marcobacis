@@ -25,5 +25,6 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Shift (Trilogia del Silo #2)](https://www.goodreads.com/review/show/7537398419?utm_medium=api&utm_source=rss) by Hugh Howey (⭐️3.88)
 - [Test-Driven Development: By Example](https://www.goodreads.com/review/show/7527722592?utm_medium=api&utm_source=rss) by Kent Beck (⭐️4.1)
 <!-- GOODREADS-LIST:END -->
