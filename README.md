@@ -25,5 +25,5 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/review/show/7542897592?utm_medium=api&utm_source=rss) by Cal Newport (⭐️3.65)
+- [La montagna sei tu: Trasformare l'autosabotaggio in autocontrollo](https://www.goodreads.com/review/show/7618821368?utm_medium=api&utm_source=rss) by Brianna Wiest (⭐️3.68)
 <!-- GOODREADS-LIST:END -->
