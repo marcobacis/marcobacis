@@ -25,5 +25,5 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [La montagna sei tu: Trasformare l'autosabotaggio in autocontrollo](https://www.goodreads.com/review/show/7618821368?utm_medium=api&utm_source=rss) by Brianna Wiest (⭐️3.67)
+- [The Unicorn Project (The Phoenix Project)](https://www.goodreads.com/review/show/7654774478?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.01)
 <!-- GOODREADS-LIST:END -->
