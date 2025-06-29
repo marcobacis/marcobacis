@@ -25,6 +25,5 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [La montagna sei tu: Trasformare l'autosabotaggio in autocontrollo](https://www.goodreads.com/review/show/7618821368?utm_medium=api&utm_source=rss) by Brianna Wiest (⭐️3.66)
 - [The Art of Agile Development: Pragmatic Guide to Agile Software Development](https://www.goodreads.com/review/show/7686248296?utm_medium=api&utm_source=rss) by James Shore (⭐️3.95)
 <!-- GOODREADS-LIST:END -->
