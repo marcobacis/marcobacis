@@ -26,6 +26,5 @@
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)](https://www.goodreads.com/review/show/7738467651?utm_medium=api&utm_source=rss) by Bruce A. Tate (⭐️3.96)
-- [Designing Your Life: Build a Life that Works for You](https://www.goodreads.com/review/show/3030727682?utm_medium=api&utm_source=rss) by Bill Burnett (⭐️3.85)
 - [The Art of Agile Development: Pragmatic Guide to Agile Software Development](https://www.goodreads.com/review/show/7686248296?utm_medium=api&utm_source=rss) by James Shore (⭐️3.95)
 <!-- GOODREADS-LIST:END -->
