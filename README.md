@@ -25,6 +25,7 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [How to Be Enough: Self-Acceptance for Self-Critics and Perfectionists](https://www.goodreads.com/review/show/7754557153?utm_medium=api&utm_source=rss) by Ellen Hendriksen (⭐️4.09)
 - [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)](https://www.goodreads.com/review/show/7738467651?utm_medium=api&utm_source=rss) by Bruce A. Tate (⭐️3.96)
 - [The Art of Agile Development: Pragmatic Guide to Agile Software Development](https://www.goodreads.com/review/show/7686248296?utm_medium=api&utm_source=rss) by James Shore (⭐️3.95)
 <!-- GOODREADS-LIST:END -->
