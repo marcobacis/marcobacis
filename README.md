@@ -25,6 +25,6 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The Psychology of Money](https://www.goodreads.com/review/show/7836930040?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.27)
 - [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)](https://www.goodreads.com/review/show/7738467651?utm_medium=api&utm_source=rss) by Bruce A. Tate (⭐️3.95)
-- [The Art of Agile Development: Pragmatic Guide to Agile Software Development](https://www.goodreads.com/review/show/7686248296?utm_medium=api&utm_source=rss) by James Shore (⭐️3.95)
 <!-- GOODREADS-LIST:END -->
