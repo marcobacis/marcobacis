@@ -16,11 +16,11 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes on &quot;The Unicorn Project&quot;](https://marcobacis.com/blog/unicorn-project-notes/)
 - [Translating Enums with the power of C# expressions](https://marcobacis.com/blog/dotnet-enum-translation-expression/)
 - [2024: A review](https://marcobacis.com/blog/2024-review/)
 - [Update Conference 2024 Journal](https://marcobacis.com/blog/2024-update-conference/)
 - [Let&#39;s build a Load Balancer in Rust - Part 3](https://marcobacis.com/blog/load-balancer-rust-3/)
-- [Let&#39;s build a Load Balancer in Rust - Part 2](https://marcobacis.com/blog/load-balancer-rust-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📚 Books I'm currently reading
