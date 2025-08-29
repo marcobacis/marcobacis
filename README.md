@@ -25,6 +25,5 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [La società della stanchezza](https://www.goodreads.com/review/show/7855087302?utm_medium=api&utm_source=rss) by Byung-Chul Han (⭐️3.8)
 - [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)](https://www.goodreads.com/review/show/7738467651?utm_medium=api&utm_source=rss) by Bruce A. Tate (⭐️3.95)
 <!-- GOODREADS-LIST:END -->
