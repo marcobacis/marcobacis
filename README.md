@@ -25,5 +25,6 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Dust (Silo, #3)](https://www.goodreads.com/review/show/7873549637?utm_medium=api&utm_source=rss) by Hugh Howey (⭐️4.18)
 - [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)](https://www.goodreads.com/review/show/7738467651?utm_medium=api&utm_source=rss) by Bruce A. Tate (⭐️3.95)
 <!-- GOODREADS-LIST:END -->
