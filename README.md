@@ -12,15 +12,15 @@
 
 - 👀 I’m interested in cloud/backend systems and system programming/infrastructure
 
-- 👨‍💻 You can find more about me at [marcobacis.com](marcobacis.com)
+- 👨‍💻 You can find more about me at [marcobacis.dev](marcobacis.dev)
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Notes on &quot;The Unicorn Project&quot;](https://marcobacis.com/blog/unicorn-project-notes/)
-- [Translating Enums with the power of C# expressions](https://marcobacis.com/blog/dotnet-enum-translation-expression/)
-- [2024: A review](https://marcobacis.com/blog/2024-review/)
-- [Update Conference 2024 Journal](https://marcobacis.com/blog/2024-update-conference/)
-- [Let&#39;s build a Load Balancer in Rust - Part 3](https://marcobacis.com/blog/load-balancer-rust-3/)
+- [Notes on &quot;The Unicorn Project&quot;](https://marcobacis.dev/blog/unicorn-project-notes/)
+- [Translating Enums with the power of C# expressions](https://marcobacis.dev/blog/dotnet-enum-translation-expression/)
+- [2024: A review](https://marcobacis.dev/blog/2024-review/)
+- [Update Conference 2024 Journal](https://marcobacis.dev/blog/2024-update-conference/)
+- [Let&#39;s build a Load Balancer in Rust - Part 3](https://marcobacis.dev/blog/load-balancer-rust-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📚 Books I'm currently reading
