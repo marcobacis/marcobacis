@@ -12,7 +12,7 @@
 
 - 👀 I’m interested in cloud/backend systems and system programming/infrastructure
 
-- 👨‍💻 You can find more about me at [marcobacis.dev](marcobacis.dev)
+- 👨‍💻 You can find more about me at [marcobacis.dev](https://marcobacis.dev)
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
