@@ -26,6 +26,6 @@
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [L’inganno dei confini: Come la geografia governa il mondo](https://www.goodreads.com/review/show/7877009830?utm_medium=api&utm_source=rss) by Simone Guida (⭐️4.22)
-- [Rust in Action](https://www.goodreads.com/review/show/7876574751?utm_medium=api&utm_source=rss) by Tim McNamara (⭐️3.5)
+- [Rust in Action](https://www.goodreads.com/review/show/7876574751?utm_medium=api&utm_source=rss) by Tim McNamara (⭐️3.42)
 - [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)](https://www.goodreads.com/review/show/7738467651?utm_medium=api&utm_source=rss) by Bruce A. Tate (⭐️3.95)
 <!-- GOODREADS-LIST:END -->
