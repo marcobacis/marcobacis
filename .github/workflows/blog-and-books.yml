@@ -17,7 +17,7 @@ jobs:
       - name: Pull in personal blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://marcobacis.com/blog/index.xml"
+          feed_list: "https://marcobacis.dev/blog/index.xml"
       - name: Update books list
         uses: zwacky/goodreads-profile-workflow@main
         with:
