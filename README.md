@@ -25,7 +25,6 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Crucial Conversations: Tools for Talking When Stakes are High](https://www.goodreads.com/review/show/7911353148?utm_medium=api&utm_source=rss) by Kerry Patterson (⭐️4.04)
 - [Rust in Action](https://www.goodreads.com/review/show/7876574751?utm_medium=api&utm_source=rss) by Tim McNamara (⭐️3.43)
 - [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)](https://www.goodreads.com/review/show/7738467651?utm_medium=api&utm_source=rss) by Bruce A. Tate (⭐️3.95)
 <!-- GOODREADS-LIST:END -->
