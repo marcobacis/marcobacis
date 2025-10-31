@@ -25,6 +25,7 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Cecità](https://www.goodreads.com/review/show/8032719040?utm_medium=api&utm_source=rss) by José Saramago (⭐️4.24)
 - [Rust in Action](https://www.goodreads.com/review/show/7876574751?utm_medium=api&utm_source=rss) by Tim McNamara (⭐️3.43)
 - [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)](https://www.goodreads.com/review/show/7738467651?utm_medium=api&utm_source=rss) by Bruce A. Tate (⭐️3.95)
 <!-- GOODREADS-LIST:END -->
