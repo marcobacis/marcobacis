@@ -25,6 +25,7 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Il Ciclo di Scuotivento](https://www.goodreads.com/review/show/8125991315?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.4)
 - [Lead Developer Career Guide](https://www.goodreads.com/review/show/8075952101?utm_medium=api&utm_source=rss) by Shelley Benhoff (⭐️4.12)
 - [Rust in Action](https://www.goodreads.com/review/show/7876574751?utm_medium=api&utm_source=rss) by Tim McNamara (⭐️3.38)
 - [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)](https://www.goodreads.com/review/show/7738467651?utm_medium=api&utm_source=rss) by Bruce A. Tate (⭐️3.95)
