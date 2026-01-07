@@ -25,6 +25,7 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [La guida del giovane papà](https://www.goodreads.com/review/show/8232013945?utm_medium=api&utm_source=rss) by Pierre Antilogus (⭐️3.67)
 - [Il Ciclo di Scuotivento](https://www.goodreads.com/review/show/8125991315?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.5)
 - [Lead Developer Career Guide](https://www.goodreads.com/review/show/8075952101?utm_medium=api&utm_source=rss) by Shelley Benhoff (⭐️4.12)
 - [Rust in Action](https://www.goodreads.com/review/show/7876574751?utm_medium=api&utm_source=rss) by Tim McNamara (⭐️3.47)
