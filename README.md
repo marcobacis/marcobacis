@@ -25,7 +25,6 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The Anxious Generation: How the Great Rewiring of Childhood Caused an Epidemic of Mental Illness](https://www.goodreads.com/review/show/8305351845?utm_medium=api&utm_source=rss) by Jonathan Haidt (⭐️4.31)
 - [Lead Developer Career Guide](https://www.goodreads.com/review/show/8075952101?utm_medium=api&utm_source=rss) by Shelley Benhoff (⭐️4.12)
 - [Rust in Action](https://www.goodreads.com/review/show/7876574751?utm_medium=api&utm_source=rss) by Tim McNamara (⭐️3.47)
 <!-- GOODREADS-LIST:END -->
