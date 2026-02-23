@@ -25,6 +25,7 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Clean Architecture](https://www.goodreads.com/review/show/3291287372?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.18)
 - [Lead Developer Career Guide](https://www.goodreads.com/review/show/8075952101?utm_medium=api&utm_source=rss) by Shelley Benhoff (⭐️4.12)
 - [Rust in Action](https://www.goodreads.com/review/show/7876574751?utm_medium=api&utm_source=rss) by Tim McNamara (⭐️3.47)
 <!-- GOODREADS-LIST:END -->
