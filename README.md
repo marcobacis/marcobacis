@@ -25,6 +25,7 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Dopamine Nation: Finding Balance in the Age of Indulgence](https://www.goodreads.com/review/show/8682072298?utm_medium=api&utm_source=rss) by Anna Lembke (⭐️3.85)
 - [From Objects to Functions](https://www.goodreads.com/review/show/6451656583?utm_medium=api&utm_source=rss) by Uberto Barbini (⭐️4.36)
 - [Clean Architecture](https://www.goodreads.com/review/show/3291287372?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.18)
 - [Rust in Action](https://www.goodreads.com/review/show/7876574751?utm_medium=api&utm_source=rss) by Tim McNamara (⭐️3.5)
