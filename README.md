@@ -25,6 +25,7 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Ignoranza artificiale : Quello che le macchine non sanno (Italian Edition)](https://www.goodreads.com/review/show/8837263691?utm_medium=api&utm_source=rss) by Paolo Caressa (⭐️4.5)
 - [From Objects to Functions](https://www.goodreads.com/review/show/6451656583?utm_medium=api&utm_source=rss) by Uberto Barbini (⭐️4.36)
 - [Clean Architecture](https://www.goodreads.com/review/show/3291287372?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.18)
 - [Rust in Action](https://www.goodreads.com/review/show/7876574751?utm_medium=api&utm_source=rss) by Tim McNamara (⭐️3.65)
