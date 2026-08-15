@@ -25,6 +25,5 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Ignoranza artificiale : Quello che le macchine non sanno (Italian Edition)](https://www.goodreads.com/review/show/8837263691?utm_medium=api&utm_source=rss) by Paolo Caressa (⭐️4.5)
 - [Clean Architecture](https://www.goodreads.com/review/show/3291287372?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
