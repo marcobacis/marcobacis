@@ -25,5 +25,6 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups](https://www.goodreads.com/review/show/8860778264?utm_medium=api&utm_source=rss) by Gergely  Orosz (⭐️4.05)
 - [Clean Architecture](https://www.goodreads.com/review/show/3291287372?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
