@@ -25,6 +25,5 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Strani disegni](https://www.goodreads.com/review/show/8922739189?utm_medium=api&utm_source=rss) by Uketsu (⭐️3.6)
 - [Clean Architecture](https://www.goodreads.com/review/show/3291287372?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
