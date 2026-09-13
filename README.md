@@ -25,5 +25,6 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Fundamentals of Software Architecture: A Modern Engineering Approach](https://www.goodreads.com/review/show/8939188063?utm_medium=api&utm_source=rss) by Mark Richards (⭐️4.04)
 - [Clean Architecture](https://www.goodreads.com/review/show/3291287372?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
