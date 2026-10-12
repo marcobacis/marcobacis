@@ -16,11 +16,11 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Gym Dashboard to see when to work out](https://marcobacis.dev/blog/gym-dashboard/)
+- [New Website](https://marcobacis.dev/blog/new-website-astro/)
 - [2025: A review](https://marcobacis.dev/blog/2025-review/)
 - [SoCraTes 2025](https://marcobacis.dev/blog/2025-socrates/)
 - [First time using Zig @ Zigday](https://marcobacis.dev/blog/2025-september-zigday/)
-- [Notes on &quot;The Unicorn Project&quot;](https://marcobacis.dev/blog/unicorn-project-notes/)
-- [Translating Enums with the power of C# expressions](https://marcobacis.dev/blog/dotnet-enum-translation-expression/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📚 Books I'm currently reading
