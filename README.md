@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Marco</h1>
-<h4 align="center">Software Engineer / Tinkerer</h4>
+<h4 align="center">Full-Stack Software Engineer</h4>
 
 &nbsp;
 
