@@ -25,5 +25,6 @@
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Breve storia eretica della Musica Classica (Italian Edition)](https://www.goodreads.com/review/show/9034656106?utm_medium=api&utm_source=rss) by Alessandro Baricco (⭐️3.45)
 - [Clean Architecture](https://www.goodreads.com/review/show/3291287372?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
